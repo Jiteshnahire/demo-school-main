@@ -1,0 +1,21 @@
+export class Students {
+   public Student_ID? : number;
+   public Fullname? : string;
+   public Email? : string;
+   public Age? : number;
+   public Gender? : string;
+   public DOB? : string;
+   public Mobile? : string;
+   public Address? : string;
+   public Percentage? : number;
+   public GPA? : string;
+   public Branch? : string;
+   public Religion? : string;
+   public Previous_College? : string;
+   public Enrollment_date? : string;
+   public Password? : string;
+   public Fee? : string;
+   public Education? : string;
+   public Student_status? : number;
+   public Form_status? : number;
+    }
